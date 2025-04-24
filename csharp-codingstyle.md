@@ -2,6 +2,8 @@
 
 ## Generic guidelines
 
+use common c# coding guidelines, except when the guidelines in this file prevent that.
+
 Use 2 characters for indentation.
 
 Never use underscores in variables.
